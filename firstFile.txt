@@ -5,3 +5,5 @@ another text row
 new row again
 
 changes on new branch task/study-git
+
+changes from another developer
